@@ -15,7 +15,7 @@
 #2. Phenotype (y) and genotype (X) are standarized
 
 # Task
-# To implement basic LD score regression algorithm
+# To implement LD score regression algorithm
 # Purpose: To estimate the heritability of the phenotype
 """
 
